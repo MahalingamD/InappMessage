@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "714215130277",
+    "firebase_url": "https://inappmessage-88049.firebaseio.com",
+    "project_id": "inappmessage-88049",
+    "storage_bucket": "inappmessage-88049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714215130277:android:1f11321da88f6f52",
+        "android_client_info": {
+          "package_name": "com.maha.inappmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714215130277-ovh4dqg7j2k0g6ti0o4d3acha7fe57qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maha.inappmessage",
+            "certificate_hash": "3f20bd8115b86b98ece72b0417aa74253d5f990c"
+          }
+        },
+        {
+          "client_id": "714215130277-je7p6h5b4ibtqgtsv9qkqufk3961nq6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFGmFakLsZlT3E0gBrtUgVYp0mKZKWiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714215130277-je7p6h5b4ibtqgtsv9qkqufk3961nq6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
